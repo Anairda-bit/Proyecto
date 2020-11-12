@@ -1,0 +1,5 @@
+C:\Users\adryg\source\repos\miscelanea\bin\Debug\miscelanea.dll
+C:\Users\adryg\source\repos\miscelanea\bin\Debug\miscelanea.pdb
+C:\Users\adryg\source\repos\miscelanea\obj\Debug\miscelanea.csproj.CoreCompileInputs.cache
+C:\Users\adryg\source\repos\miscelanea\obj\Debug\miscelanea.dll
+C:\Users\adryg\source\repos\miscelanea\obj\Debug\miscelanea.pdb
